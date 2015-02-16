@@ -1,0 +1,16 @@
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\bin\Debug\Biblio.exe
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\bin\Debug\Biblio.pdb
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\obj\x86\Debug\Biblio.Form1.resources
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\obj\x86\Debug\Biblio.Properties.Resources.resources
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\obj\x86\Debug\Biblio.csproj.GenerateResource.Cache
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\obj\x86\Debug\Biblio.exe
+C:\Users\valga_000\AppData\Local\Temporary Projects\Biblio\obj\x86\Debug\Biblio.pdb
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.exe
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.pdb
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\bin\Debug\Biblio.exe
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\bin\Debug\Biblio.pdb
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.Form1.resources
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.Properties.Resources.resources
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.csproj.GenerateResource.Cache
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\obj\x86\Debug\Biblio.csprojResolveAssemblyReference.cache
+C:\Users\valga_000\Documents\Biblio\Biblio\Biblio\bin\Debug\MySql.Data.dll
